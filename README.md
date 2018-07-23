@@ -1,6 +1,6 @@
 # 100DaysOfML
 
-Day 1: July 21, 2018
+Day 1: July 21, 2018.
 
 Today's Progress: Introduction to ML/AI. 
 
@@ -29,3 +29,44 @@ Today's Progress: Machine Learning Introduction
 "A Computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with Experience E." - Tom Mitchell. 
 
 A domain of ML is related to question of how to build computer programs that by themselves(automatically) improve or LEARN from experience. 
+
+The languages are popularing for ML in these days are Lua, clozure, and Scala. 
+
+Day 3: July 23, 2018.
+
+Today's Progress: 
+
+Machine Learning - Terminology:
+Features - The number of unique or distinct propertie that are assoicated with each item of data is called as a feature.
+Samples - One item in the data is called a sample, a datum.
+Feature Vector - The is n-dimensional data that is indicative of the features that we have extracted and which belong to the dataset.
+Feature Extraction - This is done when preparing the feature vector. It transforms data from dimensional space to a fewer dimensions.
+Training/Evolution set - The set of data that is used during the training phase, this is the phase where our algorithm learns from the data. 
+
+Types of Learning:
+Supervised Learning, Unsupervised Learning, Semi-supervised Learning, Reinforcement Learning.
+
+Supervise Learning: This technique used in Prediction. Examples are Classification and Regression.
+Regression is predicting a continuous value.
+
+Unsupervised Learning: This technique used in Analysis. The examples for Un-supervised learning are clustering, density estimation, dimensionality reduction, association analysis and hidden markov models. 
+
+Semi-supervised Learning: 
+Why do we need semi-supervised learning:
+  1. Label data is very hard to obtain and in most cases its costly. We need experts to label the data.
+      Speech Processing - For example if we want to get the switch board data set we need nearly 450 hours of annotation time for 1 hour of sppech.
+  2. Unlabled data is cheap. 
+  
+Reinforcement Learning: In AI, Reinforcement learning can be considered as a kind of dynamic programming. The training happens here is in the form of reward and punishment. 
+
+Examples of Reinforcement Learning: Learing to fly a helicopter, learning to play chess, learning to backgammon, learning to play alpha go, Robot floor cleaner etc.
+
+Artificial Neural Networks and deep learning:
+A computational model that is based on functions and structure of neurons in our brain. We provide information through the input nodes of network which goes through network. This affects the structure of the ANN, in the sense neural network changes - or learns based on the input we give and outputs its proceduces.
+Using Artificial Neural networks, we can find complex non-lineral relationships between the input and output. We could create a model and patterns can be found in the data. So ANNs are in a way non-lineral statistical modeling paradigm.
+In this context we can see deep learning as a technique where we have two or more than layers in the neural network. 
+
+
+
+
+
