@@ -66,6 +66,7 @@ A computational model that is based on functions and structure of neurons in our
 Using Artificial Neural networks, we can find complex non-lineral relationships between the input and output. We could create a model and patterns can be found in the data. So ANNs are in a way non-lineral statistical modeling paradigm.
 In this context we can see deep learning as a technique where we have two or more than layers in the neural network. 
 
+Thougths: Its good to know about general terms and definitions in ML/AI.
 
 
 
