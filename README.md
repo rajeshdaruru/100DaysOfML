@@ -69,5 +69,21 @@ In this context we can see deep learning as a technique where we have two or mor
 Thougths: Its good to know about general terms and definitions in ML/AI.
 
 
+Day 4: July 25,2018.
+
+Todays Progress: Read about Spark streaming module
+
+Hadoop - A distributed computing framework to process millions of records. Hadoop consists two parts, HDFS and MapReduce.
+HDFS - A file system to manage the storage data. 
+MapReduce - A framework to process data across multiple servers. MapReduce is fundamentally a batch processing operation. The MapReduce framework does not allow real-time processing of data. 
+
+Spark for real-time processing: A Banking Web site may need real time monitoring to get fraudulent transactions, daily reports, failures, timeout, errors. 
+
+In case of above scenario, MapReduce does not work we need Spark. 
+
+Apache Spark is general purpsoe engine to solve a variety of data processing problems. 
+Spark has specific modules for specific cases - Spark SQL, MLLib, GraphX, Spark Streaming. 
+
+Spark offers the Spark Streaming module for Real-time processing. This makes better alternative to Hadoop when manuplating data streams.
 
 
