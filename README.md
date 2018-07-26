@@ -94,6 +94,3 @@ Today's Progress: Applying Machine Learning Algorithms on DStreams
 -Read about applying k-means clustering to streaming data.
 -Saw demo implement the algorithm in python on a real world twitter dataset to determine tweet location patterns using 1) spark steraming, 2) MLLib
 -Read about Decay factor and halflife which let you tweak the forgetfulness of the algorithm
-
-
--
