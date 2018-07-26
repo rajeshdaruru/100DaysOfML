@@ -87,3 +87,13 @@ Spark has specific modules for specific cases - Spark SQL, MLLib, GraphX, Spark 
 Spark offers the Spark Streaming module for Real-time processing. This makes better alternative to Hadoop when manuplating data streams.
 
 
+Day 5: July 26, 2018. 
+Today's Progress: Applying Machine Learning Algorithms on DStreams
+
+-Read about how the k-means clustering algorithm used to find patterns. 
+-Read about applying k-means clustering to streaming data.
+-Saw demo implement the algorithm in python on a real world twitter dataset to determine tweet location patterns using 1) spark steraming, 2) MLLib
+-Read about Decay factor and halflife which let you tweak the forgetfulness of the algorithm
+
+
+-
