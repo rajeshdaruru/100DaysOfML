@@ -94,3 +94,17 @@ Today's Progress: Applying Machine Learning Algorithms on DStreams
 -Read about applying k-means clustering to streaming data.
 -Saw demo implement the algorithm in python on a real world twitter dataset to determine tweet location patterns using 1) spark steraming, 2) MLLib
 -Read about Decay factor and halflife which let you tweak the forgetfulness of the algorithm
+
+Day 6: July 27, 2018.
+Today's Progress: Read about building Robust Spark Streaming application by author Janani Ravi, She was one of the original engineers on Google Docs.
+
+-Understood importance of Checkpointing in Streaming applications.
+-Understood how driver, executor, and receiver fault tolerance works.
+-Saw a video how to build a real world application to work with streaming Twitter data.
+-Adding robustness into above application with checkpointing.
+
+Some key terms are here Fault tolerance, Robust application, Checkpointig, resilient distributed dataset, Lineage, Driver - The coordinator process which executes the user program, Executor - The worker process responsible for running individual jobs, Receiver - Spark streaming uses and additional component called Receivers, one for each input source. 
+
+Thougths: Its good to know how real world streaming applications works. here is the link in Pluralsight to undertand more about it "https://app.pluralsight.com/library/courses/spark-streaming-stream-processing-getting-started/table-of-contents" 
+
+
