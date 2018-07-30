@@ -107,4 +107,41 @@ Some key terms are here Fault tolerance, Robust application, Checkpointig, resil
 
 Thougths: Its good to know how real world streaming applications works. here is the link in Pluralsight to undertand more about it "https://app.pluralsight.com/library/courses/spark-streaming-stream-processing-getting-started/table-of-contents" 
 
+Day 7: July 28, 2018.
+
+No progress
+
+Day 8: July 29, 2018.
+
+No Progress
+
+Day 9: July 30, 2018. 
+
+Today's Progress: ML Techniques and Algorithms
+
+Types of Models: 
+  Parametric Vs Non-parametric Model
+  Generative Vs Discriminative Model
+  Linear Vs Non-linear Model
+  Probabilistic Model, Bayesan Model
+  Markov Model
+
+Machine Learning Techniques: 
+  Classification or Categorization, Regression, Clustering, Recommendation, Time series Analysis, Dimensionality Reduction, density estimation, ensemble learning, Outlier detection or novelty detection or anomaly detection, Neural networks and deep learning, Ranking, Reinforcement learning, Genetic algorithms. 
+  
+Classification Algorithms: KNN - K Nearest Neighbors, Naive bayes, Bayesian networks, Perceptron, SVM, Decision Trees, Random Forests, Deep learning based(CNN based) classification, Logistic Regression
+
+Clustering Algorithms: K- Means, Fuzzy K-Means, Mean shift, DBSCAN, OPTICS, Hierarchial Clustering, BIRCH
+
+Regression Algorithms: Simple linear regression or uni-variate linear regression, multiple linear regression or multi-variate linear regression, logistic regression(used in classification), ploynomial linear regression, nonlinear regression, least squares regression, gradient descent algorithm, Kernal based regression. 
+
+Recommendation Algorithms: Content based filtering technique, Collaborative filtering technique, Hybrid filtering technique. 
+
+Association Rule Mining Algorithms: Frequent Pattern Mining, Apriori (Lift, confidence and support), ECLAT - Equivalence class transformation, Market based analysis. 
+
+Time series Analysis methods: Simple Moving Average, Exponential Smoothing(SES), Autoregressive integration moving average(ARIMA), neural network, Croston.
+
+
+
+
 
