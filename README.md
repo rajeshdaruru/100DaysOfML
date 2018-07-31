@@ -142,6 +142,20 @@ Association Rule Mining Algorithms: Frequent Pattern Mining, Apriori (Lift, conf
 Time series Analysis methods: Simple Moving Average, Exponential Smoothing(SES), Autoregressive integration moving average(ARIMA), neural network, Croston.
 
 
+Day 10: July 31, 2018.
+
+Today's Progress: Continuing ML Techniques and Algorithms
+
+Dimensionality Reduction Techniques: Principal Component Analysis(PCA), Factor Analysis, Canonical Component Analysis(CCA), Independent component analysis(ICA), Linear discriminant analysis (LDA), Non-negative matrix factorization, T-distributed stochastic neighbour embedding. 
+
+Outlier detection, novelty detection or anomaly detection techniques: Density based technique, Cluster analysis based outlier detecttion, fuzzy logic based oultier detection, subspace and correlation based outlier detection for high diemensional data, plotting (visual techniques).
+
+Types of ensemble learning: Bagging (bootstrap aggregating), Adaboost, Boosting, Stacking, Random forest
+
+Density estimation Techniques: Expectation maximization, Parzen windows, Vector quantization, Rescaled histogram( most popular estimation technique), Kernal density estimation, many clustering techniques. 
+
+Reinforcement Learning Techniques: SARSA (State Action Reward State Action), Q Learning - Q means Quality, Quality of an action in a given state, DQN - Deep Q network, DDPG - Deep Deterministic Policy Gradient. 
+
 
 
 
