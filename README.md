@@ -157,5 +157,16 @@ Density estimation Techniques: Expectation maximization, Parzen windows, Vector 
 Reinforcement Learning Techniques: SARSA (State Action Reward State Action), Q Learning - Q means Quality, Quality of an action in a given state, DQN - Deep Q network, DDPG - Deep Deterministic Policy Gradient. 
 
 
+Day 11: Aug 1, 2018.
+
+Today's Progress: Continuing ML Techniques and Algorithms
+
+Different Nueral Networks and Deep learning structures: Back propagationa algorithm, forward propagation algorithm, perceptron, Deep nueral networks - multilayer perceptron, unsupervised pretrained networks(UPNs), Convolutional Neural Networks(CNNs), Recursive neural networks, Recurrent Neural networks(RNNs), Long short term memory networks(LSTMs), Types of Autoencoders: 1) Denoising autoencoder 2) Sparse autoencoder 3) Variational autoencoder(VAE)  4) Contractive autoencoder, Generative Adversarial Networks (GANs), Deep believe networks(DBNs), Energy based Models, Boltzmanm machines, Restricted boltzman machines, self organzing map. 
+
+Genetic Algorithms- Applications: Optimizing schedules, Optimizing portfolios , Analyzing protien structure, Optimizing engineering processes- (shop floor and process planning), Route optimization, optimal packaging, Engineering component design and equipement design.
+
+Top 10 Algorithms: Naive bayes classifier algorithm, K means clustering algorithm, SVM, Apriori algorithm, Linear regression, Logistic regression, Artificial neural networks, Random forests, Decision trees, nearest neighbours. 
+
+
 
 
