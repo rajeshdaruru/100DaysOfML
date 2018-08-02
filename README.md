@@ -167,6 +167,15 @@ Genetic Algorithms- Applications: Optimizing schedules, Optimizing portfolios , 
 
 Top 10 Algorithms: Naive bayes classifier algorithm, K means clustering algorithm, SVM, Apriori algorithm, Linear regression, Logistic regression, Artificial neural networks, Random forests, Decision trees, nearest neighbours. 
 
+Day 12: Aug 2, 2018.
+
+Today's Progress: I had attended session on Natural Language Processing
+
+Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software.
+
+Read about Machine Learning and Deep learning algorithms for NLP. 
+
+
 
 
 
