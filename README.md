@@ -176,6 +176,18 @@ Natural Language Processing, or NLP for short, is broadly defined as the automat
 Read about Machine Learning and Deep learning algorithms for NLP. 
 
 
+Day 13: Aug 3, 2018.
+
+Today's Progress: Understanding and applying Factor Analysis and PCA
+   Read about why factor analysis over regression. 
+   A Big problem with regression is multicollinearity: X variables containing the same information. 
+   Measure the extroversion and use it instead of the correlated explanatory variables.
+   Factor analysis: Extracct underlying factors from a set of data.
+   Prinicipal component analysis: Cookie-cutter tecchnique that finds the 'good' factors from a set data points.
+   Read about Mean, Variance, Covariance, Correlation. (Indepedent variables have zero covariance and zero correlation)
+   
+  
+   
 
 
 
