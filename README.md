@@ -187,7 +187,16 @@ Today's Progress: Understanding and applying Factor Analysis and PCA
    Read about Mean, Variance, Covariance, Correlation. (Indepedent variables have zero covariance and zero correlation)
    
   
-   
+Day 14: Aug 4, 2018.
+
+Today's Progress: Understanding and applying Factor Analysis and PCA - continuation.
+  Read about intuition behind PCA:  find first principal component and second prinicipal component. If the variance along the second component is small enough, we can just ignore it and use just 1 diemension to represent the data(Dimensionality reduction).
+  PCA is used when the elements of the matirx are hightly correlated with each other.
+  Finding teh principal component using the eigen decomposition.
+  Understaning eigen values and scree plots - Use the scree plot to determine how many prinicpal components to discard. 
+  Benefits of PCA: 1. Dimensionality reduction, 2. Latent factor identification, 3. Missing data and scenario generation.
+  
+  
 
 
 
