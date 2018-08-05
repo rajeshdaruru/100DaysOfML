@@ -196,7 +196,18 @@ Today's Progress: Understanding and applying Factor Analysis and PCA - continuat
   Understaning eigen values and scree plots - Use the scree plot to determine how many prinicpal components to discard. 
   Benefits of PCA: 1. Dimensionality reduction, 2. Latent factor identification, 3. Missing data and scenario generation.
   
-  
+ 
+Day 15: Aug 5, 2018.
+
+Today's progress: Implemening Factor Analysis and PCA in Python
+Here is the python steps:
+    1. Explain Google's returns - using returns of correlated stocks 
+    2. Perform covariance and correlation on stocks matri
+    3. Perform Eigen Decomposition on covariane matrix
+    4. Discard low-value dimensions using Scree plot
+    5. Find Principal Components from Eigen Vectors
+    6. Interpret and regress the Google stock. 
+    
 
 
 
