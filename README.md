@@ -209,5 +209,59 @@ Here is the python steps:
     6. Interpret and regress the Google stock. 
     
 
+Day 16: Aug 6, 2018.
+
+Today's Progress: Read about Natural Language Processing
+
+The objective of NLP is to make computer/machine as intelligent as human beings in understanding language. 
+  1. Find out the meaning from it.
+  2. Translate from text format to voice and vice versa.
+  3. Natural language translation from one language to another language.
+
+Some reasons that makes difficult to process Natural Language.
+  Context, Sentiment, Intent, Sarcasam, Common sense & Knowledge, Named entities, Interpretation of errors, Neologisms, Idiom, Ambiguity.
+  
+Approaches to NLP:
+  1. Classical/ Symbolic Approach
+  2. Empirical/ Statistical Approach
+  3. Neuarl Network Approach.
+
+Tasks invovled in NLP:
+  1. Tokenization/Segmentation 
+  2. Disambiguation
+  3. Stemming & Lemmatizer
+  4. Parts of Speech Tagging(PoS)
+  5. Parsing
+  6. Context analysis
+  7. Sentiment analysis
+
+Machine Learning Algorthm usage in NLP: 
+  1. Chunking, Named entity extraction, PoS tagging --> CRF++, HMM
+  2. Word alignment in Machine Translation --> Maxent
+  3. Spell checker --> Edit distance, Soundex
+  4. Parsing --> CKY algorithm and other chart parsing algorithms
+  5. Document Classification --> SVM, Naive bayes
+  6. Anaphora Resolution --> Hobbs Algo, Lippin and Leass Algo, Centering theory 
+  7. Topic Modeling and keyword extraction --> LDA, LSI
+  8. Parsing algorithm for grammer correction
+  9. Clustering/or similarity calculating algorithm for finding duplicate questions:
+        K-means clustering, Mean shift clustering, DBSCAN, GMM. 
+        
+The traditional method focuses on syntactic representation instead of semantic respresentation, so we need deep learning NLP.
+
+Deep Learning usage in NLP:
+  1. Neural Network - NN (feed forward): PoS tagging, Tokenization, NER, Intent extraction.
+  2. Recurrent Neural Networks - RNN: Machine translation, Question and answering system, Image captioning.
+  3. Recursive Neural Networks: Parsing sentences, Sentiment analysis, Paraphrase detection, Relation classification, Object detection.
+  4. Convolutional Neural Networks- CNN: Sentence/Text classification, Relation extraction and classification, Spam detection, Categorization of search queries, Semantic relation extraction. 
+  
+Deep learning capabilites in NLP: 
+  Expressibility, Trainability, Generalizability, Interpretability, Latency, Adversarial stability.
+  
+NLP Usage in Applications: 
+  Search engines, sentiment analysis, Spam dectection and filtering, Expert systems and knowledge bases, Automated support systems and for customer, Customer behavior analysis, Faviorites and Sites recommendation, Chatbot for customer online support, Summerizing/Abstraction of text document, Plagiarism check etc. 
+  
+Opensource NLP Libraries: NLTK, Apache OpenNLP, Standford NLP, MALLET
+AI NLP based Bot platforms: DialogFlow, ManyChat, Conversable, Chatfuel.
 
 
