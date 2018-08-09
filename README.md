@@ -265,3 +265,34 @@ Opensource NLP Libraries: NLTK, Apache OpenNLP, Standford NLP, MALLET
 AI NLP based Bot platforms: DialogFlow, ManyChat, Conversable, Chatfuel.
 
 
+Day 17: Aug 7, 2018. 
+
+No progress
+
+Day 18: Aug 8, 2018:
+
+Today's Progress: Understanding and applying Linear Regression
+
+Two common applications of Regression: 
+1.Explaining Variance - How much variance in one data series caused by another?
+2.Making Predictions - How much does a move in one series impact another?
+
+Data in one dimension: Unidimensional data is analysed using statistics such as mean, median, standard deviation. 
+Data in two dimensions: Finding the "best" straight line is called Linear Regression. 
+Data in more than two dimensions are called multiple regression. 
+
+Reasons for using Regression:
+1. Powerful - Perfectly suited to two common use-cases. 
+2. Versatile - Easily extended to non-linear relationships. 
+3. Deep - The first "cross-over hit" from Machine Learning. 
+
+Mean - The mean, or average, is the one number that best represents all of these data points. 
+Variance - Variance is the second most important number to summarise this set of data points. 
+
+Probability Distribution Function: Given any value x, how likely is that value to be found in tha data? 
+A normal distribution is a probability distribution that occurs ubiquitously in nature. 68% of data found with in 1 standard deviation of mean, 95% with in 2 standard deviation of mean, 99% within 3 standard deviation of mean. 
+Residuals - Residuals of a regression are the difference between actual and fitted values of the dependent variable. 
+
+
+
+
