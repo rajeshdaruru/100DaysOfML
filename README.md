@@ -293,6 +293,8 @@ Probability Distribution Function: Given any value x, how likely is that value t
 A normal distribution is a probability distribution that occurs ubiquitously in nature. 68% of data found with in 1 standard deviation of mean, 95% with in 2 standard deviation of mean, 99% within 3 standard deviation of mean. 
 Residuals - Residuals of a regression are the difference between actual and fitted values of the dependent variable. 
 
+Day 19: Aug 9,2018. 
 
+Today's Progress: Understanding Simple Regression Models
 
 
