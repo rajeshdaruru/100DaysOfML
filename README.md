@@ -295,6 +295,8 @@ Residuals - Residuals of a regression are the difference between actual and fitt
 
 Day 19: Aug 9,2018. 
 
-Today's Progress: Understanding Simple Regression Models
+Today's Progress:Attended a training on Computer Vision. 
 
+Day 20: Aug 10, 2018.
 
+Today's Progress: 
