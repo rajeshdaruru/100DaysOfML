@@ -299,4 +299,37 @@ Today's Progress:Attended a training on Computer Vision.
 
 Day 20: Aug 10, 2018.
 
-Today's Progress: 
+No progress
+
+Day 21: Aug 11, 2018. 
+
+Today's Progress: Understanding simple regression models
+
+The "best fit" line is the one where the sum of squares of the lenghts of residues is minimised. Finding this line is objective of the regression problem. 
+
+Residuals and regression assumptions: 
+1. you should only use the regression, when you clear the what is the cause and what is the effect. 
+2. The esimation methods: a. Method of moments b. Method of least squares c. Maximum likelihood of estimation. These cookie clutter techniques to determine the values of A and B (regression coefficients)
+3. Best Linear Unbiased Estimator (BLUE): 
+   Best - Coefficients have minimum variance i.e, are estimated with relatively high certainty.
+   Unbiased - Residulas have zero mean, are uncorrelated to each other and have equal vairance. 
+   Solving the regression problem with the method of least squares gives a BLUE solution. 
+4. X actually causes Y; we can use regression to quantify causation. 
+
+R-squared as Variance explained: 
+
+Variance(y) = variance(y') + variance(e)
+TSS (Total variance) = ESS( Explained variance) + RSS (residual varaince)
+
+R square = ESS/TSS
+
+The percentage of total variance explained by teh regression. Usually, the higher the Rsquare, the better the qaulity of the regression(upper bound is 100%). 
+
+Predictions using Regression steps: 
+  1. Input data series (two columns, x and y)
+  2. Specify functional form ( y = A + Bx). A and B yet to determined.
+  3. Find Model parameters A and B. 
+  4. Check the model quality (using residulas and R square)
+  5. Predict (given new value x, what is y)
+
+
