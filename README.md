@@ -332,4 +332,15 @@ Predictions using Regression steps:
   4. Check the model quality (using residulas and R square)
   5. Predict (given new value x, what is y)
 
+Day 22: Aug 13, 2018.
+
+Today's Progress: Computer Vision
+Computer vision is a field of computer science that works on enabling computers to see, identify and process images in the same way that huma vision does, and then provide appropriate output. 
+
+Computer vision - sub areas : Image processing, Motion analysis, Image re-construction, Scene re-construction(3D -model)
+
+Approaches to Computer vision: 
+Traditional - Edge detection, SIFT/SURF extraction, PCA.
+Machine Learning- SVM, Decision trees, Entropy based. 
+Deep Learning - Convoluted Neural networks, LSTM
 
