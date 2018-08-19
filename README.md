@@ -344,3 +344,27 @@ Traditional - Edge detection, SIFT/SURF extraction, PCA.
 Machine Learning- SVM, Decision trees, Entropy based. 
 Deep Learning - Convoluted Neural networks, LSTM
 
+Day 23: Aug 14, 2018
+
+No progress
+
+Day 24: Aug 15, 2018
+
+No progress
+
+Day 25: Aug 16, 2018
+
+No progress
+
+Day 26: Aug 17, 2018
+
+No progress
+
+Day 27: Aug 18, 2018
+
+No progress
+
+Day 28: Aug 19, 2018
+
+
+
