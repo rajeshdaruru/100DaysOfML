@@ -366,5 +366,35 @@ No progress
 
 Day 28: Aug 19, 2018
 
+Today's Progress: Smart Applications
+
+Applications are in for Disruption - AI is the key ingredient. 
+
+AI impact is in every architecture layer, 1. Experience, 2. Security, 3. Business Processes, 4. Platform(s), 5. Data. 
+
+Experience: Smart Interactions
+  Contextual: Experiences that understands the user context during interaction. Use of collaborative filtering, KNN, regression etc. 
+  Conversational: Conversatioanl interfaces that interact with users in text and voice. NLP, NLU, NLG; voice to text and text to voice, MT.
+  Immersive: Spectrum of Augmented to virtual reality experiences. Object/Scene/gesture detection & recognition, SLAM with ConvNets.
+  Adaptive: Interfaces generated and adapted to ambient constraints. Generative interfaces and Genetic algorithms. 
+
+Business Process: Smart Processes 
+  Intelligent: Business process that behave intelligently. Recommender systems, Predictions, Similarity search.
+  Automated: Automation of business processes. Expert systems, AI driven decisions. 
+  Adaptive: Adaption of processes based on environment. Recommenders, Priortization through classification, Sentiment analysis. 
+  Cognitive: Automation and augmentation of human tasks. Image/text classification/summeraization/generation.
+
+Platforms and Integration: Smart platforms 
+  Preventive: Proactively look for anomalies. Event correlation through autoassociators, Classifiers , Clustering. 
+  Self-heal: Fixes to issues based on past learning. Classification, Transfer learning etc.
+  Adaptive: Adaptive platform behaviour such as elastice scaling. Learning from data autoassociators, Reinforcement learning.
+  Automating automation: Use AI for automating the platform automation. Regression, Transfer learning.
+
+Architecture styles for AI use cases: 
+  Client cloud architecture, Microservices architecture, APIs, Event driven architecture. 
+
+
+Conversational Applications: Conversational applications employ conversation or dialog for delivering services through existing channels like mobile, browser or other applications.  Converstaion is either text or speech based.
+
 
 
