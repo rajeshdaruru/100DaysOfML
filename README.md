@@ -396,5 +396,6 @@ Architecture styles for AI use cases:
 
 Conversational Applications: Conversational applications employ conversation or dialog for delivering services through existing channels like mobile, browser or other applications.  Converstaion is either text or speech based.
 
+Processing pipeline: Voice Analysis (Tone Analysis, noise filtering etc.) -> Text -> Text Analysis (Intent identification, Entity extraction, Sentiment etc.) -> Dialogue Model(Knowledge base) -> Response(Generation, selection, Action etc.) -> Voice synthesis.   
 
 
