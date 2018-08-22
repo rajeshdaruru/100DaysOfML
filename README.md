@@ -398,4 +398,13 @@ Conversational Applications: Conversational applications employ conversation or 
 
 Processing pipeline: Voice Analysis (Tone Analysis, noise filtering etc.) -> Text -> Text Analysis (Intent identification, Entity extraction, Sentiment etc.) -> Dialogue Model(Knowledge base) -> Response(Generation, selection, Action etc.) -> Voice synthesis.   
 
+Day 29: Aug 20, 2018
+
+No progress
+
+Day 30: Aug 21, 2018.
+
+No progress
+
+Day 31: Aug 22, 2018.
 
