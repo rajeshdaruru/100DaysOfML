@@ -407,4 +407,55 @@ Day 30: Aug 21, 2018.
 No progress
 
 Day 31: Aug 22, 2018.
+No progress
+
+Day 32: Aug 23, 2018.
+No progress
+
+Day 33: Aug 24, 2018.
+No progress
+
+Day 34: Aug 25, 2018.
+No progress
+
+Day 35: Aug 26, 2018.
+No progress
+
+Day 36: Aug 27, 2018.
+No progress
+
+Day 37: Aug 28, 2018.
+No progress
+
+Day 38: Aug 29, 2018.
+No progress
+
+Day 39: Aug 30, 2018.
+No progress
+
+Day 40: Aug 31, 2018.
+No progress
+
+Day 41: Sep 01, 2018.
+No progress
+
+Day 42: Sep 02, 2018.
+No progress
+
+Day 43: Sep 03, 2018.
+No progress
+
+Day 44: Sep 04, 2018.
+
+Today's Progress: AI and Analytics
+What is Analytics:
+"The quite statistician have changed our world; not by discovering new facts or technical developments, but by changing the ways that we  reason, experiment and form our opinions." - Ian Hacking
+
+Analytic is a methodology to extract insights from data and inject intelligence into porocesses. Analytics primarily deals with "solution unknown" problems, which are probabilistic & not deterministic. However, successful analytics initiatives starts with end - the outcome/problem. 
+
+There are six types of analytical problems: if we can form the objective of the project as mentioned here, its an analytical use case/project.
+  - Classify, Segment, Predict, Forecast, Optimize, Explore/Analyze/Correlate. 
+
+
+Day 45: Sep 05. 2018. 
 
