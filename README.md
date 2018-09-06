@@ -458,4 +458,7 @@ There are six types of analytical problems: if we can form the objective of the 
 
 
 Day 45: Sep 05. 2018. 
+No Progress
 
+Day 46: Sep 06, 2018.
+Today's Progress: Read about Machine Learning, Machine Learning vs DeepLearing vs Artificial Intelligence and ML Basics. And also attended session on Smart Processes and Intelligent Process Automation. 
