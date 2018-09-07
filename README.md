@@ -462,3 +462,6 @@ No Progress
 
 Day 46: Sep 06, 2018.
 Today's Progress: Read about Machine Learning, Machine Learning vs DeepLearing vs Artificial Intelligence and ML Basics. And also attended session on Smart Processes and Intelligent Process Automation. 
+
+Day 47: Sep 07, 2018.
+Today's Progress: Read about Linear Regression and Logistic Regression.
