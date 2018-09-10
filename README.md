@@ -473,4 +473,4 @@ Day 49: Sep 09, 2018.
 No Progress
 
 Day 50: Sep 10, 2018
-Today's Prpogress: 
+Today's Prpogress: Red basics about Decision Tree and Random Forest, KNN alogorithm. 
