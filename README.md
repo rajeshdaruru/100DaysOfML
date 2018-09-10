@@ -465,3 +465,12 @@ Today's Progress: Read about Machine Learning, Machine Learning vs DeepLearing v
 
 Day 47: Sep 07, 2018.
 Today's Progress: Read about Linear Regression and Logistic Regression.
+
+Day 48: Sep 08, 2018. 
+Today's Progress: Attended Bangalore School of AI meetup. It was great. Had got chance to know about AI applications, develop usecases and application of AI, and back propagation algorithm. 
+
+Day 49: Sep 09, 2018.
+No Progress
+
+Day 50: Sep 10, 2018
+Today's Prpogress: 
