@@ -477,3 +477,41 @@ Today's Prpogress: Read basics about Decision Tree and Random Forest, KNN alogor
 
 Day 51: Sep 11, 2018
 Today's Progress: Watched and understood Move 37 Introduction and The Bellman Equation. 
+
+Day 52: Sep 12, 2018
+
+Day 53: Sep 13, 2018
+
+Day 54: Sep 14, 2018
+
+Day 55: Sep 15, 2018
+
+Day 56: Sep 16, 2018
+
+Day 57: Sep 17, 2018
+
+Day 58: Sep 18, 2018
+
+Day 59: Sep 19, 2018
+
+Day 60: Sep 20, 2018
+
+Day 61: Sep 21, 2018
+
+Day 62: Sep 22, 2018
+
+Day 63: Sep 23, 2018
+
+Day 64: Sep 24, 2018
+
+Today's Progress: Read about Deep Learning. 
+
+Day 65: Sep 25, 2018
+
+Day 66: Sep 26, 2018
+
+Day 67: Sep 27, 2018
+
+Day 68: Sep 28, 2018
+
+Day 69: Sep 29, 2018
