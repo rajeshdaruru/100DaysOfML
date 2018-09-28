@@ -511,7 +511,9 @@ Day 65: Sep 25, 2018
 Day 66: Sep 26, 2018
 
 Day 67: Sep 27, 2018
+Today's Progress:Read about the bellman equation in school of ai
 
 Day 68: Sep 28, 2018
+Today's Progress: Read about markov decision processes in school of ai
 
 Day 69: Sep 29, 2018
